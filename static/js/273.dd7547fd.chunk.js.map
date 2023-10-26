@@ -1,0 +1,1 @@
+{"version":3,"file":"static/js/273.dd7547fd.chunk.js","mappings":"mKAIA,UAFkB,WAAH,OAASA,EAAAA,EAAAA,KAAA,MAAAC,SAAI,cAAgB,C","sources":["tabs/dummyList.js"],"sourcesContent":["import React from \"react\";\n\nconst DummyList = () => <h2>Dummy List</h2>;\n\nexport default DummyList;\n"],"names":["_jsx","children"],"sourceRoot":""}
